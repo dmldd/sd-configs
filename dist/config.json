@@ -63,7 +63,7 @@
     "training_tensorboard_save_images": false,
     "training_tensorboard_flush_every": 120,
     "sd_model_checkpoint": "",
-    "sd_checkpoint_cache": 3,
+    "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 2,
     "sd_vae": "",
     "sd_vae_as_default": false,
@@ -416,7 +416,7 @@
     "api_enable_requests": true,
     "api_forbid_local_requests": true,
     "api_useragent": "",
-    "sd_checkpoints_limit": 1,
+    "sd_checkpoints_limit": 3,
     "sd_checkpoints_keep_in_cpu": true,
     "tiling": false,
     "hires_fix_refiner_pass": "second pass",
@@ -455,3 +455,4 @@
     "grid_zip_filename_pattern": "",
     "outdir_init_images": "outputs/init-images"
 }
+
