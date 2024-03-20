@@ -129,9 +129,7 @@
         "LMS Karras",
         "DPM adaptive",
         "DPM fast",
-        "DPM2 Karras",
-        "DPM++ SDE Karras",
-        "DPM++ SDE"
+ 
     ],
     "eta_ddim": 0,
     "eta_ancestral": 1,
